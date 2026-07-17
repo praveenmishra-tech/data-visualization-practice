@@ -22,3 +22,7 @@ pip install matplotlib seaborn plotly
 ## 📌 About
 
 This repo showcases my learning journey in data visualization — from beginner-level static plots to interactive dashboards.
+## 🙋‍♂️ Author
+
+**Praveen Mishra**  
+[GitHub](https://github.com/praveenmishra-tech) | [LinkedIn](https://linkedin.com/in/praveen-mishra-08b160328)
